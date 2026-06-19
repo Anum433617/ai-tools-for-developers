@@ -46,6 +46,16 @@ Content creators and developers also use AI writing tools to generate blog posts
 
 ---
 
+## AI Marketing & Ads Tools
+
+These tools help developers and marketers automate SEO, search advertising, and paid social work using AI agent skills.
+
+| Tool | Description |
+|-----|-------------|
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills (~2.9k stars) for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. |
+
+---
+
 ## AI Image Generation Tools
 
 AI image tools allow users to create graphics and artwork using text prompts.
