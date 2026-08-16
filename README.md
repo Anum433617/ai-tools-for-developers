@@ -31,6 +31,7 @@ Developers often use AI coding assistants to write code faster and solve program
 | ChatGPT | AI assistant that helps developers write and debug code |
 | GitHub Copilot | AI tool that suggests code directly in the editor |
 | Codeium | Free AI coding assistant for developers |
+| [Agent QA](https://github.com/vostride/agent-qa) | Source-available application QA harness for natural-language web and mobile tests, with persistent execution memory and self-healing flows |
 
 ---
 
